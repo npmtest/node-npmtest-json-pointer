@@ -1,4 +1,7 @@
-# test coverage for  [json-pointer (v0.6.0)](https://github.com/manuelstofer/json-pointer)  [![npm package](https://img.shields.io/npm/v/npmtest-json-pointer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-pointer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-pointer.svg)](https://travis-ci.org/npmtest/node-npmtest-json-pointer)
+# npmtest-json-pointer
+
+#### basic test coverage for  [json-pointer (v0.6.0)](https://github.com/manuelstofer/json-pointer)  [![npm package](https://img.shields.io/npm/v/npmtest-json-pointer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json-pointer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json-pointer.svg)](https://travis-ci.org/npmtest/node-npmtest-json-pointer)
+
 #### Some utilities for JSON pointers described by RFC 6901
 
 [![NPM](https://nodei.co/npm/json-pointer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json-pointer)
